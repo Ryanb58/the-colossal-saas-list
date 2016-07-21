@@ -16,6 +16,7 @@ Create an issue or PR!
 ###J:
 ###K:
 ###L:
+[LinkedIn](https://www.linkedin.com)
 ###M:
 ###N:
 ###O:
