@@ -7,11 +7,15 @@ Create an issue or PR!
 
 ###A:
 
-[Creative Cloud by Adobe](http://www.adobe.com/)
+[AWS by Amazon](https://aws.amazon.com/)
+
+[Azure by Microsoft](https://azure.com)
 
 ###B:
 
 ###C:
+
+[Creative Cloud by Adobe](http://www.adobe.com/)
 
 ###D:
 
