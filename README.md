@@ -24,7 +24,9 @@ Create an issue or PR!
 ###G:
 
 [GitHub](https://github.com/)
+
 [GoDaddy](https://www.godaddy.com)
+
 [GoToMeeting](https://www.gotomeeting.com/)
 
 ###H:
