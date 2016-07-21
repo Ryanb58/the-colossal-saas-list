@@ -7,11 +7,15 @@ Create an issue or PR!
 
 ###A:
 
+[Creative Cloud by Adobe](http://www.adobe.com/)
+
 ###B:
 
 ###C:
 
 ###D:
+
+[DigitalOcean](https://www.digitalocean.com/)
 
 ###E:
 
@@ -20,12 +24,16 @@ Create an issue or PR!
 ###G:
 
 [GitHub](https://github.com/)
+[GoDaddy](https://www.godaddy.com)
+[GoToMeeting](https://www.gotomeeting.com/)
 
 ###H:
 
 ###I:
 
 ###J:
+
+[JIRA by Atlassian](https://jira.atlassian.com/secure/Dashboard.jspa)
 
 ###K:
 
@@ -66,3 +74,5 @@ Create an issue or PR!
 ###Y:
 
 ###Z:
+
+[zendesk](https://www.zendesk.com)
