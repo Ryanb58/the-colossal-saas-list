@@ -24,7 +24,8 @@ Create an issue or PR!
 ###Q:
 ###R:
 ###S:
-[Sales Force](https://www.salesforce.com/)
+[Salesforce](https://www.salesforce.com/)
+[SmartFile](https://www.smartfile.com/)
 ###T:
 ###U:
 ###V:
