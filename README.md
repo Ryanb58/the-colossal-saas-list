@@ -63,6 +63,8 @@ Create an issue or PR!
 
 [Salesforce](https://www.salesforce.com/)
 
+[Slack](https://slack.com)
+
 [SmartFile](https://www.smartfile.com/)
 
 ###T:
