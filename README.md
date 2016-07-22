@@ -13,6 +13,8 @@ Create an issue or PR!
 
 ###B:
 
+[Box](https://www.box.com/)
+
 ###C:
 
 [Creative Cloud by Adobe](http://www.adobe.com/)
@@ -20,6 +22,8 @@ Create an issue or PR!
 ###D:
 
 [DigitalOcean](https://www.digitalocean.com/)
+
+[Dropbox](https://www.dropbox.com/)
 
 ###E:
 
