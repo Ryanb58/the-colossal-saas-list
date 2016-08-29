@@ -71,6 +71,8 @@ Create an issue or PR!
 
 [SmartFile](https://www.smartfile.com/)
 
+[Steam](http://store.steampowered.com/)
+
 ###T:
 
 [Trello](https://trello.com)
