@@ -13,13 +13,29 @@ Create an issue or PR!
 
 [waffle.io](https://waffle.io)
 
-###Web Hosting:
+###Communication:
 
-[AWS by Amazon](https://aws.amazon.com/)
+[GoToMeeting](https://www.gotomeeting.com/)
 
-[Azure by Microsoft](https://azure.com)
+[LinkedIn](https://www.linkedin.com)
 
-[DigitalOcean](https://www.digitalocean.com/)
+[Slack](https://slack.com)
+
+###Customer Management:
+
+[Hubspot](https://www.hubspot.com/)
+
+[Salesforce](https://www.salesforce.com/)
+
+[Zendesk](https://www.zendesk.com/)
+
+###Domain Registars:
+
+[GoDaddy](https://www.godaddy.com)
+
+###Editing Suites:
+
+[Creative Cloud by Adobe](http://www.adobe.com/)
 
 ###File Management:
 
@@ -29,28 +45,17 @@ Create an issue or PR!
 
 [SmartFile](https://www.smartfile.com/)
 
-###Editing Suites:
-
-[Creative Cloud by Adobe](http://www.adobe.com/)
-
 ###File Versioning:
 
 [BitBucket](https://bitbucket.org/)
 
 [GitHub](https://github.com/)
 
-###Domain Registars:
+###Web Hosting:
 
-[GoDaddy](https://www.godaddy.com)
+[AWS by Amazon](https://aws.amazon.com/)
 
-###Communication:
+[Azure by Microsoft](https://azure.com)
 
-[GoToMeeting](https://www.gotomeeting.com/)
-
-[LinkedIn](https://www.linkedin.com)
-
-[Slack](https://slack.com)
-
-
-
+[DigitalOcean](https://www.digitalocean.com/)
 
