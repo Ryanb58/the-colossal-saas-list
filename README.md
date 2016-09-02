@@ -1,4 +1,4 @@
-# Contributions? 
+# Contributions?
 Create an issue or PR!
 
 #The Colossal SAAS List!
@@ -29,13 +29,20 @@ Create an issue or PR!
 
 [Zendesk](https://www.zendesk.com/)
 
+###DNS:
+
+[CloudFlare](https://www.cloudflare.com/)
+
 ###Domain Registars:
 
-[GoDaddy](https://www.godaddy.com)
+Every ICANN registrar is in this list, along with the country and region that they service. No recommendations here; pick one that looks the best to you!
+[The Great Big List of Accredited Registars](https://www.icann.org/registrar-reports/accredited-list.html)
 
 ###Editing Suites:
 
 [Creative Cloud by Adobe](http://www.adobe.com/)
+
+[PIXLR](https://pixlr.com/)
 
 ###File Management:
 
@@ -51,7 +58,9 @@ Create an issue or PR!
 
 [GitHub](https://github.com/)
 
-###Web Hosting:
+[GitLab](https://about.gitlab.com/)
+
+###Web Hosting (Technically IaaS, but who's counting?):
 
 [AWS by Amazon](https://aws.amazon.com/)
 
@@ -59,3 +68,14 @@ Create an issue or PR!
 
 [DigitalOcean](https://www.digitalocean.com/)
 
+[Heroku](https://www.heroku.com/)
+
+###Web Publishing
+
+[Blogger](https://www.blogger.com/home)
+
+[Weebly](https://www.weebly.com/)
+
+[Wix](http://www.wix.com/start/blog)
+
+[Wordpress](https://wordpress.com/)
