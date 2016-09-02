@@ -1,5 +1,4 @@
-# Contributions?
-Create an issue or PR!
+#### [Want to contribute?](https://github.com/Ryanb58/the-colossal-saas-list/wiki)
 
 #The Colossal SAAS List!
 
