@@ -36,6 +36,7 @@ Create an issue or PR!
 ###Domain Registars:
 
 Every ICANN registrar is in this list, along with the country and region that they service. No recommendations here; pick one that looks the best to you!
+
 [The Great Big List of Accredited Registars](https://www.icann.org/registrar-reports/accredited-list.html)
 
 ###Editing Suites:
