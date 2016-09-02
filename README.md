@@ -7,7 +7,11 @@ Create an issue or PR!
 
 [Assembla by Scaleworks](https://www.assembla.com/)
 
+[Confluence by Atlassian](https://www.atlassian.com/software/confluence)
+
 [JIRA by Atlassian](https://jira.atlassian.com/secure/Dashboard.jspa)
+
+[osTicket](http://osticket.com/)
 
 [Trello](https://trello.com)
 
@@ -74,6 +78,8 @@ Every ICANN registrar is in this list, along with the country and region that th
 ###Web Publishing
 
 [Blogger](https://www.blogger.com/home)
+
+[Squarespace](https://www.squarespace.com/)
 
 [Weebly](https://www.weebly.com/)
 
