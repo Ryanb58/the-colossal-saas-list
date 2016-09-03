@@ -62,7 +62,7 @@
 
 [GitLab](https://about.gitlab.com/)
 
-###Web Hosting (Technically IaaS, but who's counting?):
+###Web Hosting:
 
 [AWS by Amazon](https://aws.amazon.com/)
 
