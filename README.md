@@ -1,8 +1,8 @@
 #### [Want to contribute?](https://github.com/Ryanb58/the-colossal-saas-list/wiki)
 
-#The Colossal SAAS List!
+# The Colossal SAAS List!
 
-###Agile Management:
+### Agile Management:
 
 [Assembla by Scaleworks](https://www.assembla.com/)
 
@@ -18,7 +18,7 @@
 
 [waffle.io](https://waffle.io)
 
-###Communication:
+### Communication:
 
 [GoToMeeting](https://www.gotomeeting.com/)
 
@@ -26,7 +26,7 @@
 
 [Slack](https://slack.com)
 
-###Customer Management:
+### Customer Management:
 
 [Hubspot](https://www.hubspot.com/)
 
@@ -34,21 +34,21 @@
 
 [Zendesk](https://www.zendesk.com/)
 
-###DNS:
+### DNS:
 
 [CloudFlare](https://www.cloudflare.com/)
 
-###Domain Registars:
+### Domain Registars:
 
 [The Great Big List of Accredited Registars](https://www.icann.org/registrar-reports/accredited-list.html)
 
-###Editing Suites:
+### Editing Suites:
 
 [Creative Cloud by Adobe](http://www.adobe.com/)
 
 [PIXLR](https://pixlr.com/)
 
-###File Management:
+### File Management:
 
 [Box](https://www.box.com/)
 
@@ -56,7 +56,7 @@
 
 [SmartFile](https://www.smartfile.com/)
 
-###File Versioning:
+### File Versioning:
 
 [BitBucket](https://bitbucket.org/)
 
@@ -64,7 +64,7 @@
 
 [GitLab](https://about.gitlab.com/)
 
-###Web Hosting:
+### Web Hosting:
 
 [AWS by Amazon](https://aws.amazon.com/)
 
@@ -74,7 +74,7 @@
 
 [Heroku](https://www.heroku.com/)
 
-###Web Publishing
+### Web Publishing
 
 [Blogger](https://www.blogger.com/home)
 
