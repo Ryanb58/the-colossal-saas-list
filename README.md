@@ -64,6 +64,12 @@
 
 [GitLab](https://about.gitlab.com/)
 
+### Open Source Project Management:
+
+[Bountysource](https://www.bountysource.com/)
+
+[Waffle.IO](https://waffle.io/)
+
 ### Web Hosting:
 
 [AWS by Amazon](https://aws.amazon.com/)
